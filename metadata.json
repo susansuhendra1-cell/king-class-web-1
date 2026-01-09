@@ -1,0 +1,7 @@
+{
+  "name": "Copy of King Class - Homeroom Teacher Hub",
+  "description": "A comprehensive interactive dashboard for homeroom teachers to manage student data, attendance, payments, and home visits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
